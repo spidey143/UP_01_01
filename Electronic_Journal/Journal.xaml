@@ -12,7 +12,7 @@
             <TextBox x:Name="filter" TextChanged="filter_groups"></TextBox>
             <ListBox x:Name="groups" 
                      ItemsSource="{Binding Groups}"
-                     DisplayMemberPath="Code">
+                     DisplayMemberPath="Code" SelectionChanged="groups_SelectionChanged_1">
             </ListBox>
         </StackPanel>
     </Grid>

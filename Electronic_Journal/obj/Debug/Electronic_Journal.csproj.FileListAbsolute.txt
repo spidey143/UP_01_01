@@ -1,0 +1,50 @@
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.exe.config
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.exe
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.pdb
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.dll
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.xml
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Journal.g.cs
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\MainWindow.g.cs
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\App.g.cs
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_MarkupCompile.cache
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_MarkupCompile.lref
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Journal.baml
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\MainWindow.baml
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.g.resources
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.Properties.Resources.resources
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.CopyComplete
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.exe
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.pdb
+C:\Users\Zver\Desktop\Новая папка (8)\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_Content.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.exe.config
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.exe
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\Electronic_Journal.pdb
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.dll
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.xml
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Journal.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\MainWindow.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\App.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_Content.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_MarkupCompile.cache
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal_MarkupCompile.lref
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Journal.baml
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\MainWindow.baml
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.g.resources
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.Properties.Resources.resources
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.GenerateResource.cache
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.csproj.CopyComplete
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.exe
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\Electronic_Journal.pdb
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\GroupWindow.g.cs
+C:\Users\Zver\Desktop\IMBA\UP_01_01\Electronic_Journal\obj\Debug\GroupWindow.baml

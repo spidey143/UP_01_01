@@ -1,5 +1,4 @@
-﻿using ClassLibrary;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -25,23 +24,32 @@ namespace Electronic_Journal
         public Journal()
         {
             InitializeComponent();
-            using (var db = new ApplicationContext())
+            using (var db = new Entities())
             {
-                db.Groups.ToList().ForEach(g => groups.Items.Add(g));
+                Session.CurrentUser.Log.ToList().ForEach(g => groups.Items.Add(g.Group1));
             }
         }
 
         private void filter_groups(object sender, TextChangedEventArgs e)
         {
             groups.Items.Clear();
-            using (var db = new ApplicationContext())
+            using (var db = new Entities())
             {
-                db.Groups.ToList().ForEach(i =>
+                Session.CurrentUser.Log.ToList().ForEach(i =>
                 {
-                    if (i.Code.Contains(filter.Text)) groups.Items.Add(i);
+                    if (i.Group1.Code.Contains(filter.Text)) groups.Items.Add(i.Group1);
                 });
             }
 
+        }
+
+        private void groups_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+            Session.CurrentGroup = groups.SelectedItem as Group;
+            GroupWindow groupWindow = new GroupWindow();
+            Hide();
+            groupWindow.ShowDialog();
+            Show();
         }
     }
 }

@@ -13,7 +13,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using ClassLibrary;
 
 namespace Electronic_Journal
 {
@@ -25,26 +24,22 @@ namespace Electronic_Journal
         public MainWindow()
         {
             InitializeComponent();
-            using (var db = new ApplicationContext())
-            {
-                db.Database.Delete();
-            }
-            InitializeComponent();
-            User.CreateAdmin();
-            ClassLibrary.Group.CreateGroups();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            User user = User.LogIn(login.Text, password.Password);
-            if (user != null)
-            {
-                Hide();
-                Journal journal = new Journal();
-                journal.ShowDialog();
-                Show();
+            using (var db = new Entities()) {
+                var users = db.User.ToList().Where(u => u.UserName == login.Text && u.PasswordHash == password.Password);
+                if (users.Count() != 0)
+                {
+                    Session.CurrentUser = users.First();
+                    Hide();
+                    Journal journal = new Journal();
+                    journal.ShowDialog();
+                    Show();
+                }
+                else MessageBox.Show("Uncorrected login or password", "Error", MessageBoxButton.OK);
             }
-            else MessageBox.Show("Uncorrected login or password", "Error", MessageBoxButton.OK);
         }
     }
     }
